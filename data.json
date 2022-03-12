@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Ralph Lauren",
+        "url": "https://demos.creative-tim.com/argon-design-system-pro/assets/img/pages/tshirt.png",
+        "price": 34
+    },
+    {
+        "id": 2,
+        "name": "Tom Ford",
+        "url": "https://demos.creative-tim.com/argon-design-system-pro/assets/img/pages/shorts.png",
+        "price": 80
+    },
+    {
+        "id": 3,
+        "name": "Wooyoungmi",
+        "url": "https://demos.creative-tim.com/argon-design-system-pro/assets/img/pages/shirt.png",
+        "price": 65
+    },
+    {
+        "id": 4,
+        "name": "Thom Sweeney",
+        "url": "https://demos.creative-tim.com/argon-design-system-pro/assets/img/pages/jeans.png",
+        "price": 100
+    }
+]
